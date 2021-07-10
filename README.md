@@ -1,7 +1,7 @@
 ### Hi. I’m Melvin. 👋
 
 
-I work at [Red Hat](https://www.redhat.com) as a Senior SRE.
+I work at [Red Hat](https://www.redhat.com) as a Senior Software Engineer.
 
 I'm a tech enthusiast living in Houston, TX / USA. I'm interested in all things about technology, but currently I am very focused on learning more about programming specifically using Golang. I've spent most of my tech career working with Open Source communities prior to working for Red Hat where I now focus on Kubernetes Operators.
 
